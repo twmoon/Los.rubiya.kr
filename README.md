@@ -6,4 +6,4 @@ write-up will be uploaded before i go to army...
 
 write-ups at velog!!!
 
-[velog.io/@jdk9908]
+[velog.io/@jdk9908](velog.io/@jdk9908)
